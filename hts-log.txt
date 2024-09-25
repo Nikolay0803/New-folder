@@ -1,0 +1,83 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Sep 2024 13:46:33 at https://bitcoin360.ai +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bitcoin360.ai -O1 "C:\Users\Admin\Desktop\New folder\." +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:49:21	Warning: 	Moved Permanently for https://bitcoin360.ai/da/ok/
+13:49:21	Warning: 	Warning moved treated for https://bitcoin360.ai/da/ok/ (real one is https://bitcoin360.ai/)
+13:49:27	Warning: 	Moved Permanently for https://bitcoin360.ai/fi/ok/
+13:49:27	Warning: 	Warning moved treated for https://bitcoin360.ai/fi/ok/ (real one is https://bitcoin360.ai/)
+13:49:33	Warning: 	Moved Permanently for https://bitcoin360.ai/fr/ok/
+13:49:33	Warning: 	Warning moved treated for https://bitcoin360.ai/fr/ok/ (real one is https://bitcoin360.ai/)
+13:49:39	Warning: 	Moved Permanently for https://bitcoin360.ai/no/ok/
+13:49:39	Warning: 	Warning moved treated for https://bitcoin360.ai/no/ok/ (real one is https://bitcoin360.ai/)
+13:49:45	Warning: 	Moved Permanently for https://bitcoin360.ai/pl/ok/
+13:49:45	Warning: 	Warning moved treated for https://bitcoin360.ai/pl/ok/ (real one is https://bitcoin360.ai/)
+13:49:51	Warning: 	Moved Permanently for https://bitcoin360.ai/pt-pt/ok/
+13:49:51	Warning: 	Warning moved treated for https://bitcoin360.ai/pt-pt/ok/ (real one is https://bitcoin360.ai/)
+13:49:57	Warning: 	Moved Permanently for https://bitcoin360.ai/es/ok/
+13:49:57	Warning: 	Warning moved treated for https://bitcoin360.ai/es/ok/ (real one is https://bitcoin360.ai/)
+13:50:03	Warning: 	Moved Permanently for https://bitcoin360.ai/sv/ok/
+13:50:03	Warning: 	Warning moved treated for https://bitcoin360.ai/sv/ok/ (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/tr/ok/
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/tr/ok/ (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/?p=329
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/?p=329 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/?p=336
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/?p=336 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/?p=318
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/?p=318 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/nl/?p=331
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/nl/?p=331 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/nl/?p=338
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/nl/?p=338 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/nl/?p=320
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/nl/?p=320 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/de/?p=332
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/de/?p=332 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/de/?p=339
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/de/?p=339 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/de/?p=321
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/de/?p=321 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/da/?p=423
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/da/?p=423 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/da/?p=416
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/da/?p=416 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/fi/?p=424
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/fi/?p=424 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/fi/?p=417
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/fi/?p=417 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/fr/?p=425
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/fr/?p=425 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/fr/?p=418
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/fr/?p=418 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/no/?p=430
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/no/?p=430 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/no/?p=432
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/no/?p=432 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/pl/?p=426
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/pl/?p=426 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/pl/?p=419
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/pl/?p=419 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/pt-pt/?p=427
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/pt-pt/?p=427 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/pt-pt/?p=420
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/pt-pt/?p=420 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/es/?p=428
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/es/?p=428 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/es/?p=421
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/es/?p=421 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/sv/?p=429
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/sv/?p=429 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/sv/?p=422
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/sv/?p=422 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/tr/?p=431
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/tr/?p=431 (real one is https://bitcoin360.ai/)
+13:50:10	Warning: 	Moved Permanently for https://bitcoin360.ai/tr/?p=433
+13:50:10	Warning: 	Warning moved treated for https://bitcoin360.ai/tr/?p=433 (real one is https://bitcoin360.ai/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 37 seconds : 201 links scanned, 164 files written (6214889 bytes overall) [1384211 bytes received at 6378 bytes/sec], 6041733 bytes transferred using HTTP compression in 147 files, ratio 16%, 15.5 requests per connection
+(No errors, 72 warnings, 0 messages)
